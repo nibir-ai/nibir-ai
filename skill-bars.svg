@@ -1,0 +1,132 @@
+<svg width="680" height="360" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="goldBar" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#785a28"/>
+      <stop offset="60%" stop-color="#c89b3c"/>
+      <stop offset="100%" stop-color="#f0e6d3"/>
+    </linearGradient>
+    <linearGradient id="bgPanel" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#010a13"/>
+      <stop offset="100%" stop-color="#071629"/>
+    </linearGradient>
+    <linearGradient id="titleBg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0a1628" stop-opacity="0"/>
+      <stop offset="30%" stop-color="#0a1628" stop-opacity="1"/>
+      <stop offset="70%" stop-color="#0a1628" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#0a1628" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="goldGlow" x="-5%" y="-20%" width="110%" height="140%">
+      <feGaussianBlur stdDeviation="2.5" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="softGlow" x="-5%" y="-50%" width="110%" height="200%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <!-- Main background -->
+  <rect width="680" height="360" fill="url(#bgPanel)" rx="4"/>
+
+  <!-- Outer gold border -->
+  <rect x="1" y="1" width="678" height="358" fill="none" stroke="#c89b3c" stroke-width="1.5" rx="4"/>
+  <!-- Inner thin border -->
+  <rect x="6" y="6" width="668" height="348" fill="none" stroke="#785a28" stroke-width="0.8" opacity="0.7" rx="3"/>
+
+  <!-- Corner ornaments -->
+  <!-- Top-left -->
+  <polygon points="1,1 32,1 1,32" fill="#c89b3c" opacity="0.9"/>
+  <polygon points="8,8 22,8 8,22" fill="#010a13"/>
+  <!-- Top-right -->
+  <polygon points="679,1 648,1 679,32" fill="#c89b3c" opacity="0.9"/>
+  <polygon points="672,8 658,8 672,22" fill="#010a13"/>
+  <!-- Bottom-left -->
+  <polygon points="1,359 32,359 1,328" fill="#c89b3c" opacity="0.9"/>
+  <polygon points="8,352 22,352 8,338" fill="#010a13"/>
+  <!-- Bottom-right -->
+  <polygon points="679,359 648,359 679,328" fill="#c89b3c" opacity="0.9"/>
+  <polygon points="672,352 658,352 672,338" fill="#010a13"/>
+
+  <!-- Title band -->
+  <rect x="0" y="0" width="680" height="58" fill="#040e1c" opacity="0.85"/>
+  <line x1="1" y1="58" x2="679" y2="58" stroke="#c89b3c" stroke-width="1"/>
+  <line x1="1" y1="61" x2="679" y2="61" stroke="#785a28" stroke-width="0.5" opacity="0.5"/>
+
+  <!-- Title diamond left -->
+  <polygon points="50,29 62,18 74,29 62,40" fill="none" stroke="#c89b3c" stroke-width="1.5"/>
+  <polygon points="54,29 62,22 70,29 62,36" fill="#c89b3c" opacity="0.6"/>
+  <!-- Title diamond right -->
+  <polygon points="606,29 618,18 630,29 618,40" fill="none" stroke="#c89b3c" stroke-width="1.5"/>
+  <polygon points="610,29 618,22 626,29 618,36" fill="#c89b3c" opacity="0.6"/>
+
+  <!-- Title text -->
+  <text x="340" y="26" font-family="Georgia, 'Times New Roman', serif" font-size="16" font-weight="bold"
+        fill="#c89b3c" text-anchor="middle" letter-spacing="5" filter="url(#goldGlow)">SKILL LEVEL UP</text>
+  <text x="340" y="45" font-family="Arial, sans-serif" font-size="9" fill="#7a6540"
+        text-anchor="middle" letter-spacing="3">SEASON PROGRESS  ·  CURRENTLY GRINDING THESE SKILL TREES</text>
+
+  <!-- Horizontal separator decorations -->
+  <line x1="90" y1="29" x2="160" y2="29" stroke="#c89b3c" stroke-width="0.8" opacity="0.4"/>
+  <line x1="520" y1="29" x2="590" y2="29" stroke="#c89b3c" stroke-width="0.8" opacity="0.4"/>
+
+  <!-- ── ROW 1: Deep Learning Theory 60% ── -->
+  <rect x="15" y="68" width="650" height="50" fill="#ffffff" opacity="0.015"/>
+  <text x="28" y="99" font-family="Arial, sans-serif" font-size="13" fill="#c8aa6e">🧠</text>
+  <text x="50" y="99" font-family="Arial, sans-serif" font-size="13" fill="#c8aa6e" letter-spacing="0.5">Deep Learning Theory</text>
+  <!-- track -->
+  <rect x="255" y="83" width="360" height="16" rx="3" fill="#0d1b2e"/>
+  <rect x="257" y="85" width="356" height="12" rx="2" fill="#0a1220"/>
+  <!-- fill 60% = 216px -->
+  <rect x="257" y="85" width="216" height="12" rx="2" fill="url(#goldBar)" filter="url(#softGlow)"/>
+  <!-- shimmer -->
+  <rect x="257" y="85" width="216" height="4" rx="2" fill="#f0e6d3" opacity="0.15"/>
+  <text x="626" y="97" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#c89b3c" text-anchor="end">60%</text>
+  <line x1="15" y1="118" x2="665" y2="118" stroke="#c89b3c" stroke-width="0.3" opacity="0.2"/>
+
+  <!-- ── ROW 2: PyTorch 35% ── -->
+  <text x="28" y="149" font-family="Arial, sans-serif" font-size="13" fill="#c8aa6e">🔥</text>
+  <text x="50" y="149" font-family="Arial, sans-serif" font-size="13" fill="#c8aa6e" letter-spacing="0.5">PyTorch</text>
+  <rect x="255" y="133" width="360" height="16" rx="3" fill="#0d1b2e"/>
+  <rect x="257" y="135" width="356" height="12" rx="2" fill="#0a1220"/>
+  <!-- 35% = 126px -->
+  <rect x="257" y="135" width="126" height="12" rx="2" fill="url(#goldBar)" filter="url(#softGlow)"/>
+  <rect x="257" y="135" width="126" height="4" rx="2" fill="#f0e6d3" opacity="0.15"/>
+  <text x="626" y="147" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#c89b3c" text-anchor="end">35%</text>
+  <line x1="15" y1="168" x2="665" y2="168" stroke="#c89b3c" stroke-width="0.3" opacity="0.2"/>
+
+  <!-- ── ROW 3: Docker 55% ── -->
+  <text x="28" y="199" font-family="Arial, sans-serif" font-size="13" fill="#c8aa6e">🐳</text>
+  <text x="50" y="199" font-family="Arial, sans-serif" font-size="13" fill="#c8aa6e" letter-spacing="0.5">Docker</text>
+  <rect x="255" y="183" width="360" height="16" rx="3" fill="#0d1b2e"/>
+  <rect x="257" y="185" width="356" height="12" rx="2" fill="#0a1220"/>
+  <!-- 55% = 198px -->
+  <rect x="257" y="185" width="198" height="12" rx="2" fill="url(#goldBar)" filter="url(#softGlow)"/>
+  <rect x="257" y="185" width="198" height="4" rx="2" fill="#f0e6d3" opacity="0.15"/>
+  <text x="626" y="197" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#c89b3c" text-anchor="end">55%</text>
+  <line x1="15" y1="218" x2="665" y2="218" stroke="#c89b3c" stroke-width="0.3" opacity="0.2"/>
+
+  <!-- ── ROW 4: MLOps 20% ── -->
+  <text x="28" y="249" font-family="Arial, sans-serif" font-size="13" fill="#c8aa6e">🏗️</text>
+  <text x="50" y="249" font-family="Arial, sans-serif" font-size="13" fill="#c8aa6e" letter-spacing="0.5">MLOps &amp; Pipelines</text>
+  <rect x="255" y="233" width="360" height="16" rx="3" fill="#0d1b2e"/>
+  <rect x="257" y="235" width="356" height="12" rx="2" fill="#0a1220"/>
+  <!-- 20% = 72px -->
+  <rect x="257" y="235" width="72" height="12" rx="2" fill="url(#goldBar)" filter="url(#softGlow)"/>
+  <rect x="257" y="235" width="72" height="4" rx="2" fill="#f0e6d3" opacity="0.15"/>
+  <text x="626" y="247" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#c89b3c" text-anchor="end">20%</text>
+  <line x1="15" y1="268" x2="665" y2="268" stroke="#c89b3c" stroke-width="0.3" opacity="0.2"/>
+
+  <!-- ── ROW 5: LLMs 10% ── -->
+  <text x="28" y="299" font-family="Arial, sans-serif" font-size="13" fill="#c8aa6e">🤗</text>
+  <text x="50" y="299" font-family="Arial, sans-serif" font-size="13" fill="#c8aa6e" letter-spacing="0.5">LLMs / Fine-tuning</text>
+  <rect x="255" y="283" width="360" height="16" rx="3" fill="#0d1b2e"/>
+  <rect x="257" y="285" width="356" height="12" rx="2" fill="#0a1220"/>
+  <!-- 10% = 36px -->
+  <rect x="257" y="285" width="36" height="12" rx="2" fill="url(#goldBar)" filter="url(#softGlow)"/>
+  <rect x="257" y="285" width="36" height="4" rx="2" fill="#f0e6d3" opacity="0.15"/>
+  <text x="626" y="297" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#c89b3c" text-anchor="end">10%</text>
+
+  <!-- Footer line -->
+  <line x1="1" y1="318" x2="679" y2="318" stroke="#c89b3c" stroke-width="0.8" opacity="0.4"/>
+  <text x="340" y="340" font-family="Georgia, serif" font-size="9" fill="#7a6540" text-anchor="middle" letter-spacing="3">THE RIFT NEVER STOPS TEACHING</text>
+</svg>
