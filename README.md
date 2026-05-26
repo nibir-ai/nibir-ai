@@ -109,22 +109,23 @@ All abilities deal **+30% true damage** from terminal. Cloud dependency reduces 
 ---
 
 ## 🛡️ ITEM BUILD
+*Purchased from Korkmrodi's Ancient Forge*
 
 <div align="center">
 
-**⚙️ Core — Languages**<br/>
+**⚔️ Mythic — Spellblade Arsenal** *(Lost Chapter's legacy)*<br/>
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
-**⚔️ Damage — AI / ML**<br/>
+**✨ Legendary — Arcane Amplifiers** *(Void-Attuned)*<br/>
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
-**👟 Boots — Tools & Env**<br/>
+**👟 Boots — Mobility** *(Swiftness enchanted)*<br/>
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -134,10 +135,11 @@ All abilities deal **+30% true damage** from terminal. Cloud dependency reduces 
 
 ---
 
-## 📊 MATCH HISTORY
+## 📊 SUMMONER'S STATISTICS
 
 <div align="center">
 
+**RANKED LADDER PERFORMANCE — Mid Lane Solo Queue**<br/>
 ![divider](https://capsule-render.vercel.app/api?type=rect&color=0:010a13,50:0a1428,100:010a13&height=2&section=header)
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nibir-ai&theme=midnight_purple" height="160"/>
@@ -146,50 +148,89 @@ All abilities deal **+30% true damage** from terminal. Cloud dependency reduces 
 
 <br/><br/>
 
+**KILL-DEATH-ASSIST GRAPH** *(Commits over time)*<br/>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=nibir-ai&theme=tokyo-night&hide_border=true&bg_color=010a13&color=c89b3c&line=785a28&point=f0e6d3&area=true&area_color=0a1428&title_color=c89b3c" width="100%"/>
 
 </div>
 
 ---
 
-## 📈 SKILL LEVEL UP
+## ⭐ CHAMPION MASTERY RANKS
 
 <div align="center">
+<b>Essence Expertise Curve — 6 Mastery Points Unlocked</b><br/><br/>
 <img src="skill-bars.svg" width="680"/>
+
+*Each bar represents a domain mastered through Runeterra's trials.*
+
 </div>
 
 ---
 
-## 🏅 ACHIEVEMENTS
+## 🏅 HEXTECH ACHIEVEMENTS
 
 <div align="center">
 
-| Badge | Condition | Status |
-|:-----:|-----------|:------:|
-| 🦈 Pull Shark | Merged pull requests | ✅ |
-| 💥 YOLO | Merged without review | ✅ |
-| 🐧 Linux Native | Never opened Windows | ✅ |
-| 🔬 Framework Builder | Built autograd from scratch | ✅ |
-| 📡 Offline Champion | Shipped AI with zero cloud deps | ✅ |
-| 📖 Paper Reader | arxiv.org is my social media | ✅ |
+| 🏆 | **Achievement** | **Condition** | **Status** |
+|:---:|---|---|:---:|
+| 🦈 | Pull Shark | Merged pull requests into the main timeline | ✅ |
+| 💥 | YOLO | Merged without review — trusted mechanics | ✅ |
+| 🐧 | Yordle Ascendant | Never opened Windows (Linux fortress) | ✅ |
+| 🔬 | Arcane Researcher | Built autograd from scratch — no imported power | ✅ |
+| 📡 | Spirit Walker | Shipped AI with zero cloud dependence — pure Runeterra magic | ✅ |
+| 📖 | Lore Master | arxiv.org feeds knowledge to the network | ✅ |
+| ⚡ | Pentakill | Five consecutive zero-cloud deployments | ✅ |
 
 </div>
 
 ---
 
-## 💬 PRE-GAME CHAT
+## 💬 ALL CHAT
 
 ```
 [ALL]  nibir-ai  »  "The best model is the one you understand completely."
 [ALL]  nibir-ai  »  "If it needs the cloud, it's not done."
 [ALL]  nibir-ai  »  "I build frameworks before I use them."
-[ALL]  nibir-ai  »  No feed. No surrender. GG.
+[ALL]  nibir-ai  »  "Feed me papers. I feed the network."
+[ALL]  nibir-ai  »  "No feed. No surrender. GG.WP."
 ```
+
+---
+
+## 🌙 CHAMPION LORE
+
+*From the frozen tundra of servers and code, emerged The Neural Architect — a mage bound to offline systems, refusing the false promises of cloud dependency. Mastering the arcane arts of linear algebra and gradient descent, Nibir builds not to impress, but to understand. Every model is forged in the fires of first principles. Every line of code carries the weight of comprehension. In the mid lane of machine learning, only the thorough survive.*
+
+---
+
+## 🎮 NEXUS FORTRESS — Repository Armory
+
+<div align="center">
+
+**Defend. Innovate. Liberate.**
+
+*Each repository is a tower in my personal fortress—built to withstand scrutiny, documentation as lore, and code as gospel.*
+
+</div>
+
+---
+
+## 🔗 HONOR SYSTEM
+
+> 💎 **League Points**: Building honor through code clarity and framework innovation  
+> 🌟 **Hextech Essence**: Gathering knowledge from every arxiv drop  
+> ⚔️ **Campaign Progress**: Shipping zero-cloud AI to liberate the mid lane  
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0015,40:1a0533,70:2d1065,100:0a0015&height=120&section=footer&text=gg%20wp&fontSize=36&fontColor=FFD700&animation=twinkling&fontAlignY=65&desc=see%20you%20on%20the%20rift&descAlignY=85&descSize=13&descColor=C9B8FF" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0015,40:1a0533,70:2d1065,100:0a0015&height=120&section=footer&text=gg%20wp&fontSize=36&fontColor=FFD700&animation=twinkling&fontAlignY=65&desc=%F0%9F%A5%8B%20See%20you%20on%20the%20Rift%20%E2%9C%A6&descAlignY=85&descSize=13&descColor=C9B8FF" width="100%"/>
+
+<br/>
+
+**PLAY AGAIN?** | **QUEUE UP** | **STATS** | **HONOR**  
+
+<i>"May your gradient descend smoothly, and your loss function converge to zero."</i>
 
 </div>
