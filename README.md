@@ -147,10 +147,21 @@ All abilities deal **+30% true damage** from terminal. Cloud dependency reduces 
 | Stat | Value | Tier |
 |------|-------|------|
 | 🎯 **Win Rate** | 84.2% | Challenger |
+| ⭐ **S Tier Seasons** | 3 | Veteran |
 | 💀 **Kill Participation** | 129 | S+ Tier |
-| 🔰 **Deaths** | 2 | Excellent |
-| 🛡️ **Assist Rate** | 10/10 Contributors | Teamfighter |
-| 📊 **CS/Min** | 3.0 | Diamond+ |
+| 👑 **Pentakills** | 2 | Legendary |
+| 🔗 **Kills Stolen** | 0 | Honorable |
+| 🤝 **Ally Assist Chain** | 10x | Teamfighter |
+
+<br/>
+
+**CHAMPION ARSENAL — Primary Spellbook**
+
+| Language | Mastery | Champion Type |
+|----------|---------|----------------|
+| 🐍 **Python** | M7 | Enchanter / Support |
+| 🔷 **TypeScript** | M6 | Midlaner / Mage |
+| 🐚 **Shell** | M5 | Jungler / Scout |
 
 <br/>
 
