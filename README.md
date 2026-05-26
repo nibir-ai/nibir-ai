@@ -1,113 +1,136 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=60&section=header" width="100%"/>
-
-```
-╔══════════════════════════════════════════════════════════════════╗
-║              ⚔  CHAMPION  SELECT  ⚔                             ║
-║         [ nibir-ai ] has entered the rift                        ║
-╚══════════════════════════════════════════════════════════════════╝
-```
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:302b63,100:24243e&height=180&text=NIBIR%20BISWAS&fontSize=62&fontColor=FFD700&animation=fadeIn&fontAlignY=50&desc=%22The%20Neural%20Architect%22%20%E2%80%94%20Mid%20Lane%20%7C%20Mage%20%2F%20Assassin&descAlignY=76&descSize=15&descColor=C9B8FF" width="80%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0015,40:1a0533,70:2d1065,100:0a0015&height=240&section=header&text=NIBIR%20BISWAS&fontSize=70&fontColor=FFD700&animation=fadeIn&fontAlignY=42&desc=%E2%9C%A6%20The%20Neural%20Architect%20%E2%80%A2%20Mid%20Lane%20Mage%20%E2%80%A2%20AI%20%2F%20ML%20%E2%9C%A6&descAlignY=64&descSize=17&descColor=C9B8FF" width="100%"/>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2800&pause=900&color=FFD700&center=true&vCenter=true&width=680&lines=%E2%9A%94%EF%B8%8F+AI+%2F+ML+Builder+from+India+%F0%9F%87%AE%F0%9F%87%B3;%F0%9F%A7%A0+Builds+neural+nets+from+first+principles;%F0%9F%90%A7+Linux+main%2C+offline-first%2C+no+cloud+required;%F0%9F%93%88+Farming+gradients+in+the+mid+lane)](https://github.com/nibir-ai)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&duration=2800&pause=1000&color=FFD700&center=true&vCenter=true&width=700&lines=%E2%9A%94%EF%B8%8F+Builds+neural+nets+from+first+principles;%F0%9F%90%A7+Linux+native+%E2%80%94+offline-first%2C+zero+cloud;%F0%9F%94%A5+Farming+gradients+in+the+mid+lane;%F0%9F%A7%A0+Understand+it.+Build+it.+Break+it.+Rebuild+it+better.)](https://github.com/nibir-ai)
 
 <br/>
 
-[![GitHub followers](https://img.shields.io/github/followers/nibir-ai?style=for-the-badge&color=FFD700&labelColor=1a1035&logo=github&label=ALLIES)](https://github.com/nibir-ai?tab=followers)
-[![Profile Views](https://komarev.com/ghpvc/?username=nibir-ai&style=for-the-badge&color=7C3AED&labelColor=1a1035&label=SCOUTED)](https://github.com/nibir-ai)
-![Role](https://img.shields.io/badge/ROLE-Mid%20Lane%20Mage-302b63?style=for-the-badge&labelColor=FFD700&color=0f0c29)
+[![Followers](https://img.shields.io/github/followers/nibir-ai?style=for-the-badge&logo=github&label=ALLIES&color=2d1065&labelColor=FFD700&logoColor=0a0015)](https://github.com/nibir-ai?tab=followers)
+&nbsp;
+[![Views](https://komarev.com/ghpvc/?username=nibir-ai&style=for-the-badge&color=2d1065&labelColor=7C3AED&label=SCOUTED)](https://github.com/nibir-ai)
+&nbsp;
+![Lane](https://img.shields.io/badge/MID%20LANE-Mage%20%2F%20Assassin-FFD700?style=for-the-badge&labelColor=0a0015)
 
 </div>
 
 ---
 
-## 🏆 CHAMPION PROFILE
+## ⚔️ CHAMPION PROFILE
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│  HERO         │  Nibir Biswas                                    │
-│  TITLE        │  "The Neural Architect"                         │
-│  CLASS        │  Mage  /  Assassin                              │
-│  REGION       │  India 🇮🇳                                       │
-│  LANE         │  Mid  (Works from Home Base 🏠)                 │
-│  OS           │  Linux 🐧  ← never switching                    │
-│  PLAYSTYLE    │  Build from scratch. Understand every layer.    │
-│  SPECIALTY    │  Offline AI • Edge Models • CV Pipelines        │
-└─────────────────────────────────────────────────────────────────┘
-```
-
----
-
-## ⚡ ABILITY KIT  *(Featured Projects)*
-
-### 【 Q 】 🔊 [XBMind](https://github.com/nibir-ai/XBMind) — *Sonic Overload*
-> **Turn any Bluetooth speaker into an offline AI smart speaker.** No cloud. No hardware mods. Pure Python.
-
-Wake word → **Whisper STT** → **Ollama LLM** → **Piper TTS** → audio out. Fully offline. Runs on Linux.
-Damage type: `Edge AI` `Voice` `Privacy-first`
-
-`Python` `Whisper` `Ollama` `Piper TTS` `Linux`
-
----
-
-### 【 W 】 👁️ [datasetvision](https://github.com/nibir-ai/datasetvision) — *True Sight*
-> **Offline CV dataset auditing CLI** — reveals every flaw before your model ever trains.
-
-Detects anomalies, near-dupes, drift, corruption, class imbalance. Because bad data is the #1 feeder on your team.
-Damage type: `Data Quality` `Computer Vision` `Pre-training`
-
-`Python` `OpenCV` `Typer` `CLI`
+<table>
+  <tr>
+    <td><b>🧙 HERO</b></td>
+    <td>Nibir Biswas</td>
+    <td><b>🗺️ REGION</b></td>
+    <td>India 🇮🇳 — Home Base 🏠</td>
+  </tr>
+  <tr>
+    <td><b>👑 TITLE</b></td>
+    <td><i>"The Neural Architect"</i></td>
+    <td><b>⚔️ CLASS</b></td>
+    <td>Mage / Assassin</td>
+  </tr>
+  <tr>
+    <td><b>🐧 OS</b></td>
+    <td>Linux &nbsp;←&nbsp; <i>non-negotiable</i></td>
+    <td><b>🎯 LANE</b></td>
+    <td>Mid Lane</td>
+  </tr>
+  <tr>
+    <td><b>⚡ SPECIALTY</b></td>
+    <td>Offline AI • Edge Models</td>
+    <td><b>🔬 PLAYSTYLE</b></td>
+    <td>Build from scratch. No black boxes.</td>
+  </tr>
+</table>
 
 ---
 
-### 【 E 】 🧮 [micro-tensor](https://github.com/nibir-ai/micro-tensor) — *Arcane Forge*
-> **Autograd engine built from scratch.** Because importing PyTorch without understanding it is griefing.
+## ⚡ ABILITY KIT
 
-Forward passes, backward passes, gradient tape — all from first principles. The only way to truly main a framework is to build it yourself.
-Damage type: `Pure` `From Scratch`
+<table width="100%">
+<tr>
+<td width="80px" align="center"><b><kbd>Q</kbd></b></td>
+<td>
 
-`Python` `Autograd` `Backpropagation` `Deep Learning`
+### 🔊 [XBMind](https://github.com/nibir-ai/XBMind) — *Sonic Overload*
+Turn any Bluetooth speaker into an **offline AI smart speaker** — no cloud, no hardware mods, pure Python.<br/>
+Wake word → **Whisper STT** → **Ollama LLM** → **Piper TTS** → audio out. Zero cloud required.<br/>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Whisper](https://img.shields.io/badge/Whisper-412991?style=flat-square&logo=openai&logoColor=white) ![Ollama](https://img.shields.io/badge/Ollama-000?style=flat-square&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+</td>
+</tr>
+<tr>
+<td align="center"><b><kbd>W</kbd></b></td>
+<td>
+
+### 👁️ [datasetvision](https://github.com/nibir-ai/datasetvision) — *True Sight*
+**Offline CV dataset auditing CLI** — reveals every anomaly, duplicate, and drift before training begins.<br/>
+Because bad data is the #1 feeder on your team.<br/>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![CLI](https://img.shields.io/badge/CLI-Typer-4EAA25?style=flat-square)
+
+</td>
+</tr>
+<tr>
+<td align="center"><b><kbd>E</kbd></b></td>
+<td>
+
+### 🧮 [micro-tensor](https://github.com/nibir-ai/micro-tensor) — *Arcane Forge*
+**Autograd engine from scratch.** Importing PyTorch without understanding it is griefing.<br/>
+Forward passes, backward passes, gradient tape — built by hand, understood completely.<br/>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![From Scratch](https://img.shields.io/badge/From_Scratch-FF6B6B?style=flat-square) ![Autograd](https://img.shields.io/badge/Autograd-7C3AED?style=flat-square)
+
+</td>
+</tr>
+<tr>
+<td align="center"><b><kbd>R</kbd></b></td>
+<td>
+
+### 💬 [arguewell](https://github.com/nibir-ai/arguewell) — *Final Argument (Ultimate)*
+Structured argumentation tooling — for when you need to be objectively right.<br/>
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td align="center"><b>☯️</b></td>
+<td>
+
+### 🐧 *Passive — Linux Devotion*
+All abilities deal **+30% true damage** from terminal. Cloud dependency reduces output by 100%.
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 【 R 】 💬 [arguewell](https://github.com/nibir-ai/arguewell) — *Ultimate: Final Argument*
-> **Structured argumentation tooling.** When you need to be objectively right.
+## 🛡️ ITEM BUILD
 
-`TypeScript`
+<div align="center">
 
----
-
-### 【 Passive 】 🐧 *Linux Devotion*
-> All abilities deal **+30% true damage** when executed from a terminal. Cloud dependency reduces damage by 100%.
-
----
-
-## 🛡️ ITEM BUILD  *(Tech Stack)*
-
-**Core Items — Languages**
-
+**⚙️ Core — Languages**<br/>
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
-**Damage Items — AI / ML**
-
+**⚔️ Damage — AI / ML**<br/>
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
-**Boots & Utility — Tools**
-
+**👟 Boots — Tools & Env**<br/>
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+</div>
 
 ---
 
@@ -115,11 +138,13 @@ Damage type: `Pure` `From Scratch`
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=nibir-ai&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d0b1e&title_color=FFD700&icon_color=C9B8FF&text_color=e2e8f0&count_private=true&custom_title=Season+Stats" height="165"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nibir-ai&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0b1e&title_color=FFD700&text_color=e2e8f0&langs_count=6&custom_title=Spell+Usage" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=nibir-ai&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d0b1e&title_color=FFD700&icon_color=C9B8FF&text_color=e2e8f0&count_private=true&custom_title=Season+Stats&rank_icon=github" height="160"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nibir-ai&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0b1e&title_color=FFD700&text_color=e2e8f0&langs_count=6&custom_title=Spell+Usage" height="160"/>
 
-<img src="https://streak-stats.demolab.com?user=nibir-ai&theme=midnight-purple&hide_border=true&background=0d0b1e&stroke=FFD700&ring=7C3AED&fire=FF6B6B&currStreakLabel=FFD700&sideLabels=C9B8FF&dates=888888" width="500"/>
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nibir-ai&theme=tokyo-night&hide_border=true&bg_color=0d0b1e&color=C9B8FF&line=7C3AED&point=FFD700&area=true&area_color=2d1065&title_color=FFD700" width="100%"/>
 
 </div>
 
@@ -129,44 +154,60 @@ Damage type: `Pure` `From Scratch`
 
 > *Season progress — currently grinding these skill trees*
 
-![Deep Learning Theory](https://progress-bar.dev/60/?title=🧠+Deep+Learning+Theory&width=280&color=7C3AED)
-![PyTorch](https://progress-bar.dev/35/?title=🔥+PyTorch&width=280&color=EE4C2C)
-![MLOps & Pipelines](https://progress-bar.dev/20/?title=🏗+MLOps+%26+Pipelines&width=280&color=2496ED)
-![Docker](https://progress-bar.dev/55/?title=🐳+Docker&width=280&color=0db7ed)
-![LLMs / Fine-tuning](https://progress-bar.dev/10/?title=🤗+LLMs+%2F+Fine-tuning&width=280&color=FFD21E)
+<br/>
+
+<img src="https://progress-bar.dev/60/?title=%F0%9F%A7%A0+Deep+Learning+Theory&width=420&color=7C3AED" />
+
+<br/>
+
+<img src="https://progress-bar.dev/35/?title=%F0%9F%94%A5+PyTorch&width=420&color=ee4c2c" />
+
+<br/>
+
+<img src="https://progress-bar.dev/55/?title=%F0%9F%90%B3+Docker&width=420&color=2496ED" />
+
+<br/>
+
+<img src="https://progress-bar.dev/20/?title=%F0%9F%8F%97%EF%B8%8F+MLOps+%26+Pipelines&width=420&color=22c55e" />
+
+<br/>
+
+<img src="https://progress-bar.dev/10/?title=%F0%9F%A4%97+LLMs+%2F+Fine-tuning&width=420&color=FFD21E" />
+
+<br/>
 
 ---
 
 ## 🏅 ACHIEVEMENTS
 
-| Badge | Unlock Condition | Status |
-|-------|-----------------|--------|
-| 🦈 Pull Shark | Merged pull requests | ✅ Unlocked |
-| 💥 YOLO | Merged without review | ✅ Unlocked |
-| 🐧 Linux Native | Never opened Windows | ✅ Unlocked |
-| 🔬 Framework Builder | Built autograd from scratch | ✅ Unlocked |
-| 📡 Offline Champion | Shipped AI with zero cloud deps | ✅ Unlocked |
-| 🌙 Night Owl | Best commits after midnight | ✅ Unlocked |
+<div align="center">
+
+| Badge | Condition | Status |
+|:-----:|-----------|:------:|
+| 🦈 Pull Shark | Merged pull requests | ✅ |
+| 💥 YOLO | Merged without review | ✅ |
+| 🐧 Linux Native | Never opened Windows | ✅ |
+| 🔬 Framework Builder | Built autograd from scratch | ✅ |
+| 📡 Offline Champion | Shipped AI with zero cloud deps | ✅ |
+| 📖 Paper Reader | arxiv.org is my social media | ✅ |
+
+</div>
 
 ---
 
 ## 💬 PRE-GAME CHAT
 
 ```
-[ALL]  nibir-ai:  "The best model is the one you understand completely."
-[ALL]  nibir-ai:  "If it needs the cloud, it's not done."
-[ALL]  nibir-ai:  "arxiv.org is my social media."
-[ALL]  nibir-ai:  "No feed. No surrender."
+[ALL]  nibir-ai  »  "The best model is the one you understand completely."
+[ALL]  nibir-ai  »  "If it needs the cloud, it's not done."
+[ALL]  nibir-ai  »  "I build frameworks before I use them."
+[ALL]  nibir-ai  »  No feed. No surrender. GG.
 ```
 
 ---
 
 <div align="center">
 
-**gg wp** — see you on the rift 🗺️
-
-[![GitHub](https://img.shields.io/badge/github.com%2Fnibir--ai-FFD700?style=for-the-badge&logo=github&logoColor=0d0b1e)](https://github.com/nibir-ai)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=80&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0015,40:1a0533,70:2d1065,100:0a0015&height=120&section=footer&text=gg%20wp&fontSize=36&fontColor=FFD700&animation=twinkling&fontAlignY=65&desc=see%20you%20on%20the%20rift&descAlignY=85&descSize=13&descColor=C9B8FF" width="100%"/>
 
 </div>
