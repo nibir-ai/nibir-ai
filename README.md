@@ -142,28 +142,13 @@ All abilities deal **+30% true damage** from terminal. Cloud dependency reduces 
 **⭐ SEASON 2026 STATISTICS — Diamond Tier Mid Lane**<br/>
 ![divider](https://capsule-render.vercel.app/api?type=rect&color=0:010a13,50:0a1428,100:010a13&height=2&section=header)
 
-### 📈 **LADDER PERFORMANCE METRICS**
+<img src="ranked-performance.svg" width="760" alt="Ladder performance metrics in a ranked profile frame"/>
 
-| Stat | Value | Tier |
-|------|-------|------|
-| 🎯 **Win Rate** | 84.2% | Challenger |
-| ⭐ **S Tier Seasons** | 3 | Veteran |
-| 💀 **Kill Participation** | 129 | S+ Tier |
-| 👑 **Pentakills** | 2 | Legendary |
-| 🔗 **Kills Stolen** | 0 | Honorable |
-| 🤝 **Ally Assist Chain** | 10x | Teamfighter |
+<br/><br/>
 
-<br/>
+<img src="champion-arsenal.svg" width="760" alt="Champion arsenal in a champion mastery frame"/>
 
-**CHAMPION ARSENAL — Primary Spellbook**
-
-| Language | Mastery | Champion Type |
-|----------|---------|----------------|
-| 🐍 **Python** | M7 | Enchanter / Support |
-| 🔷 **TypeScript** | M6 | Midlaner / Mage |
-| 🐚 **Shell** | M5 | Jungler / Scout |
-
-<br/>
+<br/><br/>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nibir-ai&theme=midnight_purple" height="160"/>
 &nbsp;&nbsp;
