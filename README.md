@@ -135,12 +135,24 @@ All abilities deal **+30% true damage** from terminal. Cloud dependency reduces 
 
 ---
 
-## 📊 SUMMONER'S STATISTICS
+## 📊 SUMMONER'S RANKED PROFILE
 
 <div align="center">
 
-**RANKED LADDER PERFORMANCE — Mid Lane Solo Queue**<br/>
+**⭐ SEASON 2026 STATISTICS — Diamond Tier Mid Lane**<br/>
 ![divider](https://capsule-render.vercel.app/api?type=rect&color=0:010a13,50:0a1428,100:010a13&height=2&section=header)
+
+### 📈 **LADDER PERFORMANCE METRICS**
+
+| Stat | Value | Tier |
+|------|-------|------|
+| 🎯 **Win Rate** | 84.2% | Challenger |
+| 💀 **Kill Participation** | 129 | S+ Tier |
+| 🔰 **Deaths** | 2 | Excellent |
+| 🛡️ **Assist Rate** | 10/10 Contributors | Teamfighter |
+| 📊 **CS/Min** | 3.0 | Diamond+ |
+
+<br/>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nibir-ai&theme=midnight_purple" height="160"/>
 &nbsp;&nbsp;
@@ -148,8 +160,15 @@ All abilities deal **+30% true damage** from terminal. Cloud dependency reduces 
 
 <br/><br/>
 
-**KILL-DEATH-ASSIST GRAPH** *(Commits over time)*<br/>
+### ⚔️ **COMBAT HISTORY** — Kill-Death-Assist Over Time
+
+*Every spike in the graph is a hard-fought teamfight. Every valley, a strategic retreat to farm.*
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=nibir-ai&theme=tokyo-night&hide_border=true&bg_color=010a13&color=c89b3c&line=785a28&point=f0e6d3&area=true&area_color=0a1428&title_color=c89b3c" width="100%"/>
+
+### 🏆 **CHAMPION PERFORMANCE** — Ban Rate: 45% | Pick Rate: 89% | Dominance Index: S+
+
+*Feared in ranked. Respected in All Chat. Never a free win for opponents.*
 
 </div>
 
