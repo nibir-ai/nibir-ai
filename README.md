@@ -138,9 +138,9 @@ All abilities deal **+30% true damage** from terminal. Cloud dependency reduces 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=nibir-ai&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d0b1e&title_color=FFD700&icon_color=C9B8FF&text_color=e2e8f0&count_private=true&custom_title=Season+Stats&rank_icon=github" height="160"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nibir-ai&theme=midnight_purple" height="160"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nibir-ai&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0b1e&title_color=FFD700&text_color=e2e8f0&langs_count=6&custom_title=Spell+Usage" height="160"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nibir-ai&theme=midnight_purple" height="160"/>
 
 <br/><br/>
 
@@ -156,25 +156,13 @@ All abilities deal **+30% true damage** from terminal. Cloud dependency reduces 
 
 <br/>
 
-<img src="https://progress-bar.dev/60/?title=%F0%9F%A7%A0+Deep+Learning+Theory&width=420&color=7C3AED" />
-
-<br/>
-
-<img src="https://progress-bar.dev/35/?title=%F0%9F%94%A5+PyTorch&width=420&color=ee4c2c" />
-
-<br/>
-
-<img src="https://progress-bar.dev/55/?title=%F0%9F%90%B3+Docker&width=420&color=2496ED" />
-
-<br/>
-
-<img src="https://progress-bar.dev/20/?title=%F0%9F%8F%97%EF%B8%8F+MLOps+%26+Pipelines&width=420&color=22c55e" />
-
-<br/>
-
-<img src="https://progress-bar.dev/10/?title=%F0%9F%A4%97+LLMs+%2F+Fine-tuning&width=420&color=FFD21E" />
-
-<br/>
+| Skill | Progress | Level |
+|-------|----------|-------|
+| 🧠 Deep Learning Theory | ![60%](https://img.shields.io/badge/████████████░░░░░░░░-60%25-7C3AED?style=flat-square&labelColor=1a1035) | **60%** — diving into the math |
+| 🔥 PyTorch | ![35%](https://img.shields.io/badge/███████░░░░░░░░░░░░░-35%25-EE4C2C?style=flat-square&labelColor=1a1035) | **35%** — hands-on every day |
+| 🐳 Docker | ![55%](https://img.shields.io/badge/███████████░░░░░░░░░-55%25-2496ED?style=flat-square&labelColor=1a1035) | **55%** — getting comfortable |
+| 🏗️ MLOps & Pipelines | ![20%](https://img.shields.io/badge/████░░░░░░░░░░░░░░░░-20%25-22c55e?style=flat-square&labelColor=1a1035) | **20%** — infra for real models |
+| 🤗 LLMs / Fine-tuning | ![10%](https://img.shields.io/badge/██░░░░░░░░░░░░░░░░░░-10%25-FFD21E?style=flat-square&labelColor=1a1035) | **10%** — on the horizon |
 
 ---
 
