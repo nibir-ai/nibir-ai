@@ -1,0 +1,148 @@
+<svg width="760" height="430" viewBox="0 0 760 430" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Ladder Performance Metrics</title>
+  <desc id="desc">A ranked profile panel showing win rate, S tier seasons, kill participation, pentakills, kills stolen, and ally assist chain.</desc>
+  <defs>
+    <linearGradient id="rp-bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#010a13"/>
+      <stop offset="0.46" stop-color="#061826"/>
+      <stop offset="1" stop-color="#020812"/>
+    </linearGradient>
+    <linearGradient id="rp-header" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#06111d"/>
+      <stop offset="0.5" stop-color="#0d2436"/>
+      <stop offset="1" stop-color="#06111d"/>
+    </linearGradient>
+    <linearGradient id="rp-gold" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#6b4b1f"/>
+      <stop offset="0.45" stop-color="#c89b3c"/>
+      <stop offset="1" stop-color="#f0e6d2"/>
+    </linearGradient>
+    <linearGradient id="rp-row" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#071522"/>
+      <stop offset="0.55" stop-color="#0b1c2b"/>
+      <stop offset="1" stop-color="#07111d"/>
+    </linearGradient>
+    <linearGradient id="rp-row-alt" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#0a1825"/>
+      <stop offset="0.55" stop-color="#0f2638"/>
+      <stop offset="1" stop-color="#08131f"/>
+    </linearGradient>
+    <linearGradient id="rp-blue" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#8be9ff"/>
+      <stop offset="1" stop-color="#1f8fb8"/>
+    </linearGradient>
+    <filter id="rp-shadow" x="-6%" y="-8%" width="112%" height="118%">
+      <feDropShadow dx="0" dy="8" stdDeviation="8" flood-color="#000000" flood-opacity="0.45"/>
+    </filter>
+    <filter id="rp-glow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="2" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <clipPath id="rp-bevel">
+      <polygon points="0,18 18,0 742,0 760,18 760,412 742,430 18,430 0,412"/>
+    </clipPath>
+  </defs>
+
+  <g filter="url(#rp-shadow)">
+    <rect width="760" height="430" fill="url(#rp-bg)" clip-path="url(#rp-bevel)"/>
+    <polygon points="1,18 18,1 742,1 759,18 759,412 742,429 18,429 1,412" fill="none" stroke="url(#rp-gold)" stroke-width="2"/>
+    <polygon points="10,23 23,10 737,10 750,23 750,407 737,420 23,420 10,407" fill="none" stroke="#785a28" stroke-width="1" opacity="0.75"/>
+
+    <rect x="16" y="18" width="728" height="66" fill="url(#rp-header)"/>
+    <line x1="20" y1="84" x2="740" y2="84" stroke="#c89b3c" stroke-width="1.2" opacity="0.9"/>
+    <line x1="54" y1="95" x2="706" y2="95" stroke="#1f8fb8" stroke-width="0.8" opacity="0.35"/>
+
+    <polygon points="57,18 85,18 102,36 85,64 57,64 40,36" fill="#06111d" stroke="url(#rp-gold)" stroke-width="1.6"/>
+    <polygon points="71,25 88,42 71,58 54,42" fill="url(#rp-blue)" opacity="0.9"/>
+    <polygon points="71,19 80,34 71,29 62,34" fill="#f0e6d2" opacity="0.85"/>
+
+    <text x="380" y="39" font-family="Georgia, Times New Roman, serif" font-size="22" font-weight="700" fill="#f0e6d2" text-anchor="middle">LADDER PERFORMANCE METRICS</text>
+    <text x="380" y="63" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#c89b3c" text-anchor="middle">SEASON 2026 STATISTICS / DIAMOND TIER MID LANE</text>
+
+    <polygon points="660,30 676,18 692,30 692,52 676,64 660,52" fill="none" stroke="#c89b3c" stroke-width="1.4" opacity="0.8"/>
+    <circle cx="676" cy="41" r="8" fill="none" stroke="#1f8fb8" stroke-width="1.1" opacity="0.8"/>
+
+    <text x="86" y="120" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" fill="#a09b8c">STAT</text>
+    <text x="492" y="120" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" fill="#a09b8c" text-anchor="middle">VALUE</text>
+    <text x="638" y="120" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" fill="#a09b8c" text-anchor="middle">TIER</text>
+
+    <g font-family="Arial, Helvetica, sans-serif">
+      <polygon points="35,136 48,124 724,124 737,136 737,166 724,178 48,178 35,166" fill="url(#rp-row)" stroke="#2b4252" stroke-width="1"/>
+      <circle cx="61" cy="151" r="14" fill="#07111d" stroke="url(#rp-gold)" stroke-width="1.3"/>
+      <circle cx="61" cy="151" r="8" fill="none" stroke="#1f8fb8" stroke-width="1.6"/>
+      <line x1="61" y1="140" x2="61" y2="162" stroke="#c89b3c" stroke-width="1"/>
+      <line x1="50" y1="151" x2="72" y2="151" stroke="#c89b3c" stroke-width="1"/>
+      <text x="86" y="156" font-size="16" font-weight="700" fill="#f0e6d2">Win Rate</text>
+      <line x1="448" y1="130" x2="448" y2="172" stroke="#785a28" opacity="0.55"/>
+      <line x1="556" y1="130" x2="556" y2="172" stroke="#785a28" opacity="0.55"/>
+      <text x="492" y="156" font-size="16" font-weight="700" fill="#f0e6d2" text-anchor="middle">84.2%</text>
+      <rect x="590" y="135" width="98" height="25" rx="4" fill="#112a3c" stroke="#1f8fb8" opacity="0.95"/>
+      <text x="639" y="153" font-size="12" font-weight="700" fill="#8be9ff" text-anchor="middle">CHALLENGER</text>
+
+      <polygon points="35,181 48,169 724,169 737,181 737,211 724,223 48,223 35,211" fill="url(#rp-row-alt)" stroke="#2b4252" stroke-width="1"/>
+      <circle cx="61" cy="196" r="14" fill="#07111d" stroke="url(#rp-gold)" stroke-width="1.3"/>
+      <polygon points="61,183 65,192 75,192 67,198 70,209 61,202 52,209 55,198 47,192 57,192" fill="url(#rp-gold)"/>
+      <text x="86" y="201" font-size="16" font-weight="700" fill="#f0e6d2">S Tier Seasons</text>
+      <line x1="448" y1="175" x2="448" y2="217" stroke="#785a28" opacity="0.55"/>
+      <line x1="556" y1="175" x2="556" y2="217" stroke="#785a28" opacity="0.55"/>
+      <text x="492" y="201" font-size="16" font-weight="700" fill="#f0e6d2" text-anchor="middle">3</text>
+      <rect x="596" y="180" width="86" height="25" rx="4" fill="#221a10" stroke="#c89b3c" opacity="0.95"/>
+      <text x="639" y="198" font-size="12" font-weight="700" fill="#c89b3c" text-anchor="middle">VETERAN</text>
+
+      <polygon points="35,226 48,214 724,214 737,226 737,256 724,268 48,268 35,256" fill="url(#rp-row)" stroke="#2b4252" stroke-width="1"/>
+      <circle cx="61" cy="241" r="14" fill="#07111d" stroke="url(#rp-gold)" stroke-width="1.3"/>
+      <circle cx="57" cy="239" r="4" fill="#c8aa6e"/>
+      <circle cx="65" cy="239" r="4" fill="#c8aa6e"/>
+      <path d="M51 250 C55 258 67 258 71 250 L68 247 L54 247 Z" fill="#c8aa6e"/>
+      <rect x="58" y="247" width="2" height="5" fill="#07111d"/>
+      <rect x="63" y="247" width="2" height="5" fill="#07111d"/>
+      <text x="86" y="246" font-size="16" font-weight="700" fill="#f0e6d2">Kill Participation</text>
+      <line x1="448" y1="220" x2="448" y2="262" stroke="#785a28" opacity="0.55"/>
+      <line x1="556" y1="220" x2="556" y2="262" stroke="#785a28" opacity="0.55"/>
+      <text x="492" y="246" font-size="16" font-weight="700" fill="#f0e6d2" text-anchor="middle">129</text>
+      <rect x="601" y="225" width="76" height="25" rx="4" fill="#17233a" stroke="#8be9ff" opacity="0.9"/>
+      <text x="639" y="243" font-size="12" font-weight="700" fill="#8be9ff" text-anchor="middle">S+ TIER</text>
+
+      <polygon points="35,271 48,259 724,259 737,271 737,301 724,313 48,313 35,301" fill="url(#rp-row-alt)" stroke="#2b4252" stroke-width="1"/>
+      <circle cx="61" cy="286" r="14" fill="#07111d" stroke="url(#rp-gold)" stroke-width="1.3"/>
+      <path d="M50 286 L55 276 L61 284 L67 276 L72 286 L69 299 L53 299 Z" fill="url(#rp-gold)"/>
+      <circle cx="55" cy="286" r="2" fill="#06111d"/>
+      <circle cx="67" cy="286" r="2" fill="#06111d"/>
+      <text x="86" y="291" font-size="16" font-weight="700" fill="#f0e6d2">Pentakills</text>
+      <line x1="448" y1="265" x2="448" y2="307" stroke="#785a28" opacity="0.55"/>
+      <line x1="556" y1="265" x2="556" y2="307" stroke="#785a28" opacity="0.55"/>
+      <text x="492" y="291" font-size="16" font-weight="700" fill="#f0e6d2" text-anchor="middle">2</text>
+      <rect x="596" y="270" width="86" height="25" rx="4" fill="#221a10" stroke="#c89b3c" opacity="0.95"/>
+      <text x="639" y="288" font-size="12" font-weight="700" fill="#c89b3c" text-anchor="middle">LEGENDARY</text>
+
+      <polygon points="35,316 48,304 724,304 737,316 737,346 724,358 48,358 35,346" fill="url(#rp-row)" stroke="#2b4252" stroke-width="1"/>
+      <circle cx="61" cy="331" r="14" fill="#07111d" stroke="url(#rp-gold)" stroke-width="1.3"/>
+      <path d="M51 336 C56 328 62 326 69 321" fill="none" stroke="#c8aa6e" stroke-width="3" stroke-linecap="round"/>
+      <path d="M53 321 C59 326 65 329 70 337" fill="none" stroke="#1f8fb8" stroke-width="3" stroke-linecap="round"/>
+      <text x="86" y="336" font-size="16" font-weight="700" fill="#f0e6d2">Kills Stolen</text>
+      <line x1="448" y1="310" x2="448" y2="352" stroke="#785a28" opacity="0.55"/>
+      <line x1="556" y1="310" x2="556" y2="352" stroke="#785a28" opacity="0.55"/>
+      <text x="492" y="336" font-size="16" font-weight="700" fill="#f0e6d2" text-anchor="middle">0</text>
+      <rect x="590" y="315" width="98" height="25" rx="4" fill="#14221f" stroke="#3fbf9f" opacity="0.85"/>
+      <text x="639" y="333" font-size="12" font-weight="700" fill="#75e6c4" text-anchor="middle">HONORABLE</text>
+
+      <polygon points="35,361 48,349 724,349 737,361 737,391 724,403 48,403 35,391" fill="url(#rp-row-alt)" stroke="#2b4252" stroke-width="1"/>
+      <circle cx="61" cy="376" r="14" fill="#07111d" stroke="url(#rp-gold)" stroke-width="1.3"/>
+      <path d="M49 376 L58 367 L63 372 L58 377 L53 377 Z" fill="#c8aa6e"/>
+      <path d="M73 376 L64 367 L59 372 L64 377 L69 377 Z" fill="#c8aa6e"/>
+      <path d="M53 379 C58 386 64 386 69 379" fill="none" stroke="#1f8fb8" stroke-width="2"/>
+      <text x="86" y="381" font-size="16" font-weight="700" fill="#f0e6d2">Ally Assist Chain</text>
+      <line x1="448" y1="355" x2="448" y2="397" stroke="#785a28" opacity="0.55"/>
+      <line x1="556" y1="355" x2="556" y2="397" stroke="#785a28" opacity="0.55"/>
+      <text x="492" y="381" font-size="16" font-weight="700" fill="#f0e6d2" text-anchor="middle">10x</text>
+      <rect x="586" y="360" width="106" height="25" rx="4" fill="#14221f" stroke="#3fbf9f" opacity="0.85"/>
+      <text x="639" y="378" font-size="12" font-weight="700" fill="#75e6c4" text-anchor="middle">TEAMFIGHTER</text>
+    </g>
+
+    <line x1="46" y1="412" x2="714" y2="412" stroke="#785a28" stroke-width="0.8" opacity="0.6"/>
+    <text x="380" y="419" font-family="Georgia, Times New Roman, serif" font-size="8" fill="#7a6540" text-anchor="middle">QUEUE LOCKED / READY CHECK ACCEPTED</text>
+  </g>
+</svg>

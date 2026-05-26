@@ -1,0 +1,82 @@
+<svg width="760" height="270" viewBox="0 0 760 270" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Champion Arsenal</title>
+  <desc id="desc">A champion select style panel listing Python, TypeScript, and Shell mastery roles.</desc>
+  <defs>
+    <linearGradient id="ca-bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#010a13"/>
+      <stop offset="0.5" stop-color="#081a28"/>
+      <stop offset="1" stop-color="#020812"/>
+    </linearGradient>
+    <linearGradient id="ca-header" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#06111d"/>
+      <stop offset="0.5" stop-color="#10283a"/>
+      <stop offset="1" stop-color="#06111d"/>
+    </linearGradient>
+    <linearGradient id="ca-gold" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#6b4b1f"/>
+      <stop offset="0.48" stop-color="#c89b3c"/>
+      <stop offset="1" stop-color="#f0e6d2"/>
+    </linearGradient>
+    <linearGradient id="ca-blue" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#8be9ff"/>
+      <stop offset="1" stop-color="#1f8fb8"/>
+    </linearGradient>
+    <linearGradient id="ca-teal" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#75e6c4"/>
+      <stop offset="1" stop-color="#1b8f7f"/>
+    </linearGradient>
+    <filter id="ca-shadow" x="-6%" y="-10%" width="112%" height="124%">
+      <feDropShadow dx="0" dy="8" stdDeviation="8" flood-color="#000000" flood-opacity="0.42"/>
+    </filter>
+    <clipPath id="ca-bevel">
+      <polygon points="0,18 18,0 742,0 760,18 760,252 742,270 18,270 0,252"/>
+    </clipPath>
+  </defs>
+
+  <g filter="url(#ca-shadow)">
+    <rect width="760" height="270" fill="url(#ca-bg)" clip-path="url(#ca-bevel)"/>
+    <polygon points="1,18 18,1 742,1 759,18 759,252 742,269 18,269 1,252" fill="none" stroke="url(#ca-gold)" stroke-width="2"/>
+    <polygon points="10,23 23,10 737,10 750,23 750,247 737,260 23,260 10,247" fill="none" stroke="#785a28" stroke-width="1" opacity="0.75"/>
+
+    <rect x="16" y="18" width="728" height="62" fill="url(#ca-header)"/>
+    <line x1="22" y1="80" x2="738" y2="80" stroke="#c89b3c" stroke-width="1.2"/>
+    <text x="380" y="39" font-family="Georgia, Times New Roman, serif" font-size="22" font-weight="700" fill="#f0e6d2" text-anchor="middle">CHAMPION ARSENAL</text>
+    <text x="380" y="61" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#c89b3c" text-anchor="middle">PRIMARY SPELLBOOK / MASTERY LOADOUT</text>
+
+    <polygon points="63,30 78,18 93,30 93,50 78,62 63,50" fill="none" stroke="#c89b3c" stroke-width="1.4"/>
+    <path d="M78 25 L84 39 L78 55 L72 39 Z" fill="url(#ca-blue)"/>
+    <polygon points="667,30 682,18 697,30 697,50 682,62 667,50" fill="none" stroke="#c89b3c" stroke-width="1.4"/>
+    <path d="M682 25 L688 39 L682 55 L676 39 Z" fill="url(#ca-blue)"/>
+
+    <g font-family="Arial, Helvetica, sans-serif">
+      <polygon points="36,113 54,96 238,96 256,113 256,225 238,242 54,242 36,225" fill="#071522" stroke="#2b4252" stroke-width="1"/>
+      <polygon points="48,122 62,109 230,109 244,122 244,216 230,229 62,229 48,216" fill="#0b1c2b" stroke="#785a28" stroke-width="1" opacity="0.9"/>
+      <rect x="69" y="109" width="154" height="4" fill="url(#ca-teal)"/>
+      <circle cx="146" cy="145" r="30" fill="#06111d" stroke="url(#ca-gold)" stroke-width="2"/>
+      <text x="146" y="153" font-size="20" font-weight="700" fill="#75e6c4" text-anchor="middle">PY</text>
+      <text x="146" y="190" font-size="20" font-weight="700" fill="#f0e6d2" text-anchor="middle">Python</text>
+      <text x="146" y="211" font-size="13" font-weight="700" fill="#c89b3c" text-anchor="middle">MASTERY 7</text>
+      <text x="146" y="229" font-size="11" fill="#a09b8c" text-anchor="middle">ENCHANTER / SUPPORT</text>
+
+      <polygon points="270,113 288,96 472,96 490,113 490,225 472,242 288,242 270,225" fill="#071522" stroke="#2b4252" stroke-width="1"/>
+      <polygon points="282,122 296,109 464,109 478,122 478,216 464,229 296,229 282,216" fill="#0b1c2b" stroke="#785a28" stroke-width="1" opacity="0.9"/>
+      <rect x="303" y="109" width="154" height="4" fill="url(#ca-blue)"/>
+      <circle cx="380" cy="145" r="30" fill="#06111d" stroke="url(#ca-gold)" stroke-width="2"/>
+      <polygon points="380,119 404,145 380,171 356,145" fill="url(#ca-blue)" opacity="0.88"/>
+      <text x="380" y="151" font-size="17" font-weight="700" fill="#06111d" text-anchor="middle">TS</text>
+      <text x="380" y="190" font-size="20" font-weight="700" fill="#f0e6d2" text-anchor="middle">TypeScript</text>
+      <text x="380" y="211" font-size="13" font-weight="700" fill="#c89b3c" text-anchor="middle">MASTERY 6</text>
+      <text x="380" y="229" font-size="11" fill="#a09b8c" text-anchor="middle">MIDLANER / MAGE</text>
+
+      <polygon points="504,113 522,96 706,96 724,113 724,225 706,242 522,242 504,225" fill="#071522" stroke="#2b4252" stroke-width="1"/>
+      <polygon points="516,122 530,109 698,109 712,122 712,216 698,229 530,229 516,216" fill="#0b1c2b" stroke="#785a28" stroke-width="1" opacity="0.9"/>
+      <rect x="537" y="109" width="154" height="4" fill="#c89b3c"/>
+      <circle cx="614" cy="145" r="30" fill="#06111d" stroke="url(#ca-gold)" stroke-width="2"/>
+      <path d="M592 154 C597 132 615 122 637 136 C632 156 615 167 592 154 Z" fill="#c8aa6e"/>
+      <path d="M599 151 C608 145 620 142 632 143" fill="none" stroke="#06111d" stroke-width="2"/>
+      <text x="614" y="190" font-size="20" font-weight="700" fill="#f0e6d2" text-anchor="middle">Shell</text>
+      <text x="614" y="211" font-size="13" font-weight="700" fill="#c89b3c" text-anchor="middle">MASTERY 5</text>
+      <text x="614" y="229" font-size="11" fill="#a09b8c" text-anchor="middle">JUNGLER / SCOUT</text>
+    </g>
+  </g>
+</svg>
