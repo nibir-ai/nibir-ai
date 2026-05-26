@@ -138,13 +138,15 @@ All abilities deal **+30% true damage** from terminal. Cloud dependency reduces 
 
 <div align="center">
 
+![divider](https://capsule-render.vercel.app/api?type=rect&color=0:010a13,50:0a1428,100:010a13&height=2&section=header)
+
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nibir-ai&theme=midnight_purple" height="160"/>
 &nbsp;&nbsp;
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nibir-ai&theme=midnight_purple" height="160"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nibir-ai&theme=tokyo-night&hide_border=true&bg_color=0d0b1e&color=C9B8FF&line=7C3AED&point=FFD700&area=true&area_color=2d1065&title_color=FFD700" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nibir-ai&theme=tokyo-night&hide_border=true&bg_color=010a13&color=c89b3c&line=785a28&point=f0e6d3&area=true&area_color=0a1428&title_color=c89b3c" width="100%"/>
 
 </div>
 
@@ -152,17 +154,9 @@ All abilities deal **+30% true damage** from terminal. Cloud dependency reduces 
 
 ## 📈 SKILL LEVEL UP
 
-> *Season progress — currently grinding these skill trees*
-
-<br/>
-
-| Skill | Progress | Level |
-|-------|----------|-------|
-| 🧠 Deep Learning Theory | ![60%](https://img.shields.io/badge/████████████░░░░░░░░-60%25-7C3AED?style=flat-square&labelColor=1a1035) | **60%** — diving into the math |
-| 🔥 PyTorch | ![35%](https://img.shields.io/badge/███████░░░░░░░░░░░░░-35%25-EE4C2C?style=flat-square&labelColor=1a1035) | **35%** — hands-on every day |
-| 🐳 Docker | ![55%](https://img.shields.io/badge/███████████░░░░░░░░░-55%25-2496ED?style=flat-square&labelColor=1a1035) | **55%** — getting comfortable |
-| 🏗️ MLOps & Pipelines | ![20%](https://img.shields.io/badge/████░░░░░░░░░░░░░░░░-20%25-22c55e?style=flat-square&labelColor=1a1035) | **20%** — infra for real models |
-| 🤗 LLMs / Fine-tuning | ![10%](https://img.shields.io/badge/██░░░░░░░░░░░░░░░░░░-10%25-FFD21E?style=flat-square&labelColor=1a1035) | **10%** — on the horizon |
+<div align="center">
+<img src="skill-bars.svg" width="680"/>
+</div>
 
 ---
 
