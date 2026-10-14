@@ -1,153 +1,116 @@
-<!-- Nibir Biswas · GitHub Profile README · V4 -->
+<!-- github profile v5 -->
 <div align="center">
-  <img src="./assets/01-hero.svg" alt="Nibir Biswas — AI builder, creative technologist, open-source romantic" width="100%" />
+  <img src="./assets/01-hero.svg" alt="Nibir Biswas — building thoughtful software with taste" width="100%" />
   <br />
-  <strong>AI / ML · DEVELOPER TOOLS · LOCAL-FIRST SOFTWARE · OPEN SOURCE</strong>
+  <sub>
+    <strong>AI / ML</strong> &nbsp;·&nbsp;
+    <strong>DEVELOPER TOOLS</strong> &nbsp;·&nbsp;
+    <strong>LOCAL-FIRST SOFTWARE</strong> &nbsp;·&nbsp;
+    <strong>OPEN SOURCE</strong>
+  </sub>
   <br /><br />
-  <a href="#selected-work">Selected work</a> &nbsp;·&nbsp;
-  <a href="#current-focus">Current focus</a> &nbsp;·&nbsp;
-  <a href="#method--practice">Method</a> &nbsp;·&nbsp;
-  <a href="#toolbox">Toolbox</a> &nbsp;·&nbsp;
-  <a href="#after-hours">After hours</a>
+  <a href="#selected-work">selected work</a> &nbsp;·&nbsp;
+  <a href="#right-now">right now</a> &nbsp;·&nbsp;
+  <a href="#toolkit">toolkit</a> &nbsp;·&nbsp;
+  <a href="#beyond-code">beyond code</a>
 </div>
 
 <br />
 
-<img src="./assets/02-index.svg" alt="A visual index of the profile sections" width="100%" />
+<img src="./assets/02-bento.svg" alt="A quick map of who I am and what I build" width="100%" />
 
-## A small introduction
+## about
 
-I'm **Nibir** — an M.Tech student in Artificial Intelligence, an independent builder, and someone who gets obsessed with the part underneath the abstraction.
+i’m **Nibir** — an **M.Tech student in Artificial Intelligence**, an open-source builder, and someone who likes software that feels both **technically solid** and **visually intentional**.
 
-I like making things that sit somewhere between **technical rigor** and **strong aesthetic presence**: developer tools that reduce friction, machine-learning projects that help me understand the machinery better, and product ideas that care just as much about interface feeling as implementation detail.
+Most of what I make lives somewhere around:
+- developer tools
+- local-first software
+- machine learning systems
+- product ideas where interface quality actually matters
 
-I don't want software to be merely functional. I want it to feel **clear**, **authored**, and **worth returning to**.
-
-<table>
-  <tr>
-    <td><strong>Currently</strong></td>
-    <td>M.Tech in Artificial Intelligence</td>
-    <td><strong>Building</strong></td>
-    <td>open-source tools, product concepts, ML experiments</td>
-  </tr>
-  <tr>
-    <td><strong>Interested in</strong></td>
-    <td>agents, retrieval, first-principles ML, local-first software</td>
-    <td><strong>Care about</strong></td>
-    <td>clarity, craft, interface voice, ownership</td>
-  </tr>
-</table>
+I like understanding the machinery beneath the abstraction, but I also care about how the final thing feels in the hand.
 
 ---
 
-## Selected work
+## selected work
 
-<img src="./assets/03-work.svg" alt="Selected work: Relay, datasetvision, micro-tensor and XBMind" width="100%" />
+<img src="./assets/03-projects.svg" alt="Selected project highlights" width="100%" />
 
-### Project notes
+### project notes
 
-| Project | Why it exists | Links |
+| project | what it’s about | link |
 | :-- | :-- | :-- |
-| **[Relay](https://github.com/nibir-ai/relay)** | Built around a practical communication problem: an API endpoint can exist without actually being ready for the next person. Relay tries to keep testing, context, and readiness in one workflow. | `developer tools` · `API workflows` |
-| **[datasetvision](https://github.com/nibir-ai/datasetvision)** | Computer-vision projects inherit the quality of their data. This project is about making problems visible before they become expensive model issues. | `Python` · `CV` · `data quality` |
-| **[micro-tensor](https://github.com/nibir-ai/micro-tensor)** | A compact autograd engine made to understand neural-network training by building the machinery directly instead of only importing it. | `autograd` · `from scratch` |
-| **[XBMind](https://github.com/nibir-ai/XBMind)** | An experiment in local intelligence: turning an ordinary Bluetooth speaker into an offline AI smart speaker with local STT, LLM, and TTS. | `voice` · `local AI` |
+| **relay** | an API workflow tool built around the gap between an endpoint existing and an endpoint being genuinely ready for the next person. | [repo ↗](https://github.com/nibir-ai/relay) |
+| **datasetvision** | a local CV dataset auditing CLI for spotting anomalies, duplicates, corruption, and drift before training time becomes waste. | [repo ↗](https://github.com/nibir-ai/datasetvision) |
+| **micro-tensor** | a tiny autograd engine made to understand neural-network training from first principles. | [repo ↗](https://github.com/nibir-ai/micro-tensor) |
+| **XBMind** | an offline AI smart-speaker experiment using local speech recognition, local LLMs, and TTS. | [repo ↗](https://github.com/nibir-ai/XBMind) |
 
-<sub>Selected, not exhaustive. You can explore the rest of the shelf in <a href="https://github.com/nibir-ai?tab=repositories">all repositories ↗</a>.</sub>
-
----
-
-## Current focus
-
-<img src="./assets/04-focus.svg" alt="Current focus: research, product concepts, and recurring questions" width="100%" />
-
-### Ongoing tracks
-
-**SpectraAgent-Nd**  
-My M.Tech research project, centered on AI-assisted analysis of spectral data to help identify neodymium-bearing material. The part that most interests me is not only whether the system is accurate, but whether its reasoning can be made more legible and useful.
-
-**ConsoleShell**  
-A product concept for a controller-first PC launcher that treats desktop gaming with console-grade seriousness while preserving keyboard support, local ownership, and no-account-first product thinking.
-
-### Questions I keep returning to
-
-- How do we build **agentic systems** that are actually inspectable and not just impressive in demos?
-- How should **retrieval and context** support reasoning instead of becoming decorative citations?
-- What becomes easier to understand when you rebuild **ML internals** from first principles?
-- Can a tool remove **coordination overhead** instead of simply moving it around?
-- How much capability can stay **local-first, private, and responsive**?
+<sub>there’s more in the archive — these are just the ones i want doing the introduction work.</sub>
 
 ---
 
-## Method & practice
+## right now
 
-<img src="./assets/05-method.svg" alt="Method and practice: principles, building materials, and studio notes" width="100%" />
+### active threads
+- **SpectraAgent-Nd** — my M.Tech research project around AI-assisted interpretation of spectral data for neodymium-bearing material detection.
+- **ConsoleShell** — a controller-first PC launcher concept with console-grade feel, proper keyboard support, and local ownership.
+- **RAG / MCP / agents** — especially the part where these systems become more useful, inspectable, and less demo-shaped.
 
-I like the meeting point of engineering discipline and authored experience.
-
-That usually means:
-- understanding the machinery well enough to explain it plainly
-- giving interfaces a real voice instead of flattening everything into generic utility
-- preferring honest documentation over decorative complexity
-- caring about what the user feels in the first ten seconds, not just whether the software works by minute ten
-
-A lot of what I value can be summarized simply: **small understandable cores, visible assumptions, useful writing, and software with atmosphere**.
+### what i care about
+- clarity over noise
+- local-first bias
+- strong docs
+- interface voice
+- useful software with personality
 
 ---
 
-## Toolbox
+## toolkit
 
-### Languages & foundations
+### languages
 `Python` `TypeScript` `Bash` `SQL`
 
-### ML & data
+### ML + data
 `PyTorch` `NumPy` `OpenCV` `local model tooling`
 
-### Systems & development
-`Git` `Linux` `Docker` `REST APIs` `CLI apps`
+### systems
+`Linux` `Git` `Docker` `REST APIs` `CLI apps`
 
-### Currently exploring
-`RAG` `MCP` `LangChain` `LangGraph` `agent architectures`
-
-No fake proficiency meters. No inflated percentages. Just the materials I tend to use.
+### currently exploring
+`RAG` `LangChain` `LangGraph` `MCP` `agents`
 
 ---
 
-## Studio notes
+## studio notes
 
-> I like software with a point of view.
+> good software doesn’t have to feel emotionally flat.
 
-> I think the best technical work often feels calmer than the machinery underneath it.
+> i like tools that are clear, opinionated, and worth keeping around.
 
-> A README is part of the product.
+> docs are part of the product.
 
-> Good interfaces are not decoration. They are interpretation.
-
-> Utility does not have to be emotionally flat.
+> the best interfaces usually feel effortless, even when the machinery underneath definitely is not.
 
 ---
 
-## After hours
+## beyond code
 
-<img src="./assets/06-afterhours.svg" alt="After hours: games, music, writing, and the aesthetic instincts behind the work" width="100%" />
+i’m into **story-rich games**, **melancholic music**, **fiction**, and interfaces with mood.
 
-The work is shaped by things outside the editor too.
+That part leaks back into the work more than i’d pretend otherwise.
 
-I gravitate toward **story-rich games**, **melancholic music**, **psychological and speculative fiction**, and interfaces that know how to create a little drama. I also write fiction in **Bengali** and **English**, which is probably part of why I care so much about texture and mood even in technical spaces.
-
-### Always nearby
-- **Music:** Radiohead, Pink Floyd, Arctic Monkeys, Lord Huron, The Local Train, When Chai Met Toast
-- **Games:** story-first experiences, difficult combat, tactile interfaces, strong atmosphere
-- **Writing:** fiction, introspection, human tension, a little darkness
+### always nearby
+- **music:** Radiohead, Pink Floyd, Arctic Monkeys, Lord Huron, The Local Train, When Chai Met Toast
+- **games:** cinematic stuff, difficult combat, tactile UI, atmosphere-heavy worlds
+- **writing:** fiction in Bengali and English, usually introspective and a little dark
 
 ---
 
-<img src="./assets/07-closer.svg" alt="Closing statement" width="100%" />
+<img src="./assets/04-footer.svg" alt="Closing statement" width="100%" />
 
 <div align="center">
-  <a href="https://github.com/nibir-ai?tab=repositories"><strong>Explore the repositories ↗</strong></a>
+  <a href="https://github.com/nibir-ai?tab=repositories"><strong>explore repositories ↗</strong></a>
   &nbsp;·&nbsp;
-  <a href="https://github.com/nibir-ai"><strong>Follow the work ↗</strong></a>
-  <br /><br />
-  <sub>NB / this profile is designed as an evolving space, not a finished monument.</sub>
+  <a href="https://github.com/nibir-ai"><strong>follow profile ↗</strong></a>
 </div>
