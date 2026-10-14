@@ -1,8 +1,22 @@
-# Profile design notes
+# GitHub Profile V4 — Design Notes
 
-- Keep images in `assets/` beside the README. All graphics are self-contained SVGs; no external image services.
-- Aim: detailed but curated, like an editorial portfolio, not an achievement dashboard.
-- Project descriptions and research directions should be reviewed as they evolve.
-- GitHub's rendering differs in light/dark mode. SVG illustrations use a deliberate dark canvas; text areas inherit the viewer's GitHub theme.
-- Both `ConsoleShell` and `SpectraAgent-Nd` are described as exploration/research, not shipped work.
-- The anchor navigation uses GitHub's generated heading slugs; validate after committing.
+Direction: premium creative portfolio, not scientific dashboard.
+
+## Intended feel
+- denser than V2
+- warmer and more expressive than V3
+- serious, but not sterile
+- more personality, less lab energy
+- more “designed space”, less “document”
+
+## Core changes from V3
+- richer hero with stronger voice
+- visual index to increase discoverability
+- project showcase as large editorial cards
+- current focus replaces "inside the lab"
+- method panel framed as practice and taste
+- personal section tied directly to design sensibility
+- no pseudo-scientific diagrams or chemistry-lab feel
+
+## Installation
+Put `README.md` and the full `assets/` folder into the root of your `nibir-ai/nibir-ai` profile repository.

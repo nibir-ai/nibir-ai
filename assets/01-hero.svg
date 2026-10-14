@@ -1,0 +1,64 @@
+<svg width="1600" height="900" viewBox="0 0 1600 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1600" y2="900" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#06070A"/>
+    <stop offset="0.45" stop-color="#0B1018"/>
+    <stop offset="1" stop-color="#120C10"/>
+  </linearGradient>
+  <radialGradient id="glow1" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1250 180) rotate(120) scale(520 340)">
+    <stop stop-color="#FF8A3D" stop-opacity="0.28"/>
+    <stop offset="1" stop-color="#FF8A3D" stop-opacity="0"/>
+  </radialGradient>
+  <radialGradient id="glow2" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(230 740) rotate(-15) scale(440 240)">
+    <stop stop-color="#6AA4FF" stop-opacity="0.18"/>
+    <stop offset="1" stop-color="#6AA4FF" stop-opacity="0"/>
+  </radialGradient>
+  <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1">
+    <stop stop-color="#FFD88A"/>
+    <stop offset="1" stop-color="#FF8A3D"/>
+  </linearGradient>
+  <filter id="blur"><feGaussianBlur stdDeviation="40"/></filter>
+</defs>
+<rect width="1600" height="900" rx="32" fill="url(#bg)"/>
+<rect width="1600" height="900" rx="32" fill="url(#glow1)"/>
+<rect width="1600" height="900" rx="32" fill="url(#glow2)"/>
+<path d="M0 785C260 755 403 676 583 612C738 557 911 534 1104 567C1300 600 1433 668 1600 747" stroke="#223040" stroke-width="1.5" opacity="0.55"/>
+<path d="M0 820C221 771 444 706 628 666C775 634 958 634 1129 669C1288 701 1441 754 1600 807" stroke="#29374A" stroke-width="1.5" opacity="0.4"/>
+<path d="M133 80H1467" stroke="#283345" opacity="0.8"/>
+<path d="M133 815H1467" stroke="#283345" opacity="0.8"/>
+<path d="M133 80V815" stroke="#283345" opacity="0.8"/>
+<path d="M1467 80V815" stroke="#283345" opacity="0.8"/>
+<circle cx="133" cy="80" r="4" fill="#FFD88A"/>
+<circle cx="1467" cy="80" r="4" fill="#FFD88A"/>
+<circle cx="133" cy="815" r="4" fill="#FFD88A"/>
+<circle cx="1467" cy="815" r="4" fill="#FFD88A"/>
+<text x="165" y="145" fill="#9CA7B7" font-size="18" font-family="Inter, Segoe UI, Arial" letter-spacing="4">NIBIR BISWAS / 2026</text>
+<text x="165" y="188" fill="#F2EEE6" font-size="92" font-weight="700" font-family="Georgia, Times New Roman, serif">AI builder.</text>
+<text x="165" y="274" fill="#F2EEE6" font-size="92" font-weight="700" font-family="Georgia, Times New Roman, serif">Creative technologist.</text>
+<text x="165" y="360" fill="url(#gold)" font-size="92" font-weight="700" font-family="Georgia, Times New Roman, serif">Open-source romantic.</text>
+<text x="167" y="423" fill="#B8C2CF" font-size="24" font-family="Inter, Segoe UI, Arial">I build software that wants to be used: machine learning systems, developer tools,</text>
+<text x="167" y="456" fill="#B8C2CF" font-size="24" font-family="Inter, Segoe UI, Arial">local-first products, and interfaces with mood, craft, and intent.</text>
+<rect x="167" y="520" width="548" height="164" rx="22" fill="#0E131B" stroke="#263140"/>
+<text x="197" y="564" fill="#FFBF86" font-size="16" font-family="Inter, Segoe UI, Arial" letter-spacing="2.8">CURRENT POSITION</text>
+<text x="197" y="607" fill="#F2EEE6" font-size="30" font-weight="600" font-family="Inter, Segoe UI, Arial">M.Tech in Artificial Intelligence</text>
+<text x="197" y="642" fill="#AAB3C0" font-size="20" font-family="Inter, Segoe UI, Arial">Researching. Prototyping. Turning difficult technical ideas into tools</text>
+<text x="197" y="670" fill="#AAB3C0" font-size="20" font-family="Inter, Segoe UI, Arial">that are clear, tangible, and worth keeping around.</text>
+<rect x="770" y="520" width="225" height="164" rx="22" fill="#0E131B" stroke="#263140"/>
+<text x="800" y="564" fill="#6AA4FF" font-size="16" font-family="Inter, Segoe UI, Arial" letter-spacing="2.6">WORK THEMES</text>
+<text x="800" y="607" fill="#F2EEE6" font-size="22" font-family="Inter, Segoe UI, Arial">developer tools</text>
+<text x="800" y="640" fill="#F2EEE6" font-size="22" font-family="Inter, Segoe UI, Arial">AI / ML systems</text>
+<text x="800" y="673" fill="#F2EEE6" font-size="22" font-family="Inter, Segoe UI, Arial">local-first software</text>
+<rect x="1015" y="520" width="225" height="164" rx="22" fill="#0E131B" stroke="#263140"/>
+<text x="1045" y="564" fill="#9AE6B4" font-size="16" font-family="Inter, Segoe UI, Arial" letter-spacing="2.6">WORKING STYLE</text>
+<text x="1045" y="607" fill="#F2EEE6" font-size="22" font-family="Inter, Segoe UI, Arial">first-principles</text>
+<text x="1045" y="640" fill="#F2EEE6" font-size="22" font-family="Inter, Segoe UI, Arial">interface-conscious</text>
+<text x="1045" y="673" fill="#F2EEE6" font-size="22" font-family="Inter, Segoe UI, Arial">independent</text>
+<rect x="1260" y="143" width="150" height="150" rx="24" fill="#0D1118" stroke="#2B3648"/>
+<text x="1300" y="236" fill="#F2EEE6" font-size="78" font-family="Georgia, serif" font-weight="700">NB</text>
+<rect x="1210" y="340" width="212" height="120" rx="22" fill="#0E131B" stroke="#263140"/>
+<text x="1242" y="383" fill="#FFC857" font-size="16" font-family="Inter, Arial" letter-spacing="2">ABOUT THIS SPACE</text>
+<text x="1242" y="417" fill="#D7DCE4" font-size="19" font-family="Inter, Arial">Designed as a</text>
+<text x="1242" y="444" fill="#D7DCE4" font-size="19" font-family="Inter, Arial">creative portfolio,</text>
+<text x="1242" y="471" fill="#D7DCE4" font-size="19" font-family="Inter, Arial">not a trophy wall.</text>
+<text x="1210" y="735" fill="#A6B1BF" font-size="17" font-family="Inter, Segoe UI, Arial" letter-spacing="2.2">SYSTEMS / TASTE / ATMOSPHERE / CLARITY</text>
+</svg>

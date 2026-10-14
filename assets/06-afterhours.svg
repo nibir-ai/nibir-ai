@@ -1,0 +1,37 @@
+<svg width="1600" height="860" viewBox="0 0 1600 860" xmlns="http://www.w3.org/2000/svg" fill="none">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1600" y2="860"><stop stop-color="#090A0E"/><stop offset="0.5" stop-color="#0C0D12"/><stop offset="1" stop-color="#130D12"/></linearGradient>
+<radialGradient id="g1" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1310 250) rotate(138) scale(390 290)"><stop stop-color="#FF8A3D" stop-opacity="0.22"/><stop offset="1" stop-color="#FF8A3D" stop-opacity="0"/></radialGradient>
+<radialGradient id="g2" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(210 700) rotate(-10) scale(320 160)"><stop stop-color="#6AA4FF" stop-opacity="0.18"/><stop offset="1" stop-color="#6AA4FF" stop-opacity="0"/></radialGradient>
+</defs>
+<rect width="1600" height="860" rx="28" fill="url(#bg)"/>
+<rect width="1600" height="860" rx="28" fill="url(#g1)"/>
+<rect width="1600" height="860" rx="28" fill="url(#g2)"/>
+<text x="110" y="112" fill="#FFB874" font-size="18" font-family="Inter, Arial" letter-spacing="4">AFTER HOURS / THE PART THAT LEAKS BACK INTO THE WORK</text>
+<text x="110" y="170" fill="#F2EEE6" font-size="60" font-family="Georgia, serif" font-weight="700">Taste matters. Atmosphere matters.</text>
+<text x="110" y="216" fill="#A9B3C1" font-size="23" font-family="Inter, Arial">Not everything that shapes a builder fits under “tech stack”.</text>
+<rect x="110" y="290" width="420" height="420" rx="28" fill="#0F141D" stroke="#253041"/>
+<text x="145" y="344" fill="#FFC857" font-size="17" font-family="Inter, Arial" letter-spacing="3">CURRENT CULTURAL INPUTS</text>
+<text x="145" y="395" fill="#F2EEE6" font-size="34" font-family="Georgia, serif" font-weight="700">Games</text>
+<text x="145" y="429" fill="#B5BECA" font-size="18" font-family="Inter, Arial">Story-first worlds, difficult combat,</text>
+<text x="145" y="454" fill="#B5BECA" font-size="18" font-family="Inter, Arial">strong atmosphere, and interfaces</text>
+<text x="145" y="479" fill="#B5BECA" font-size="18" font-family="Inter, Arial">that know how to make an entrance.</text>
+<text x="145" y="536" fill="#F2EEE6" font-size="34" font-family="Georgia, serif" font-weight="700">Music</text>
+<text x="145" y="570" fill="#B5BECA" font-size="18" font-family="Inter, Arial">Radiohead, Pink Floyd, Arctic Monkeys,</text>
+<text x="145" y="595" fill="#B5BECA" font-size="18" font-family="Inter, Arial">Lord Huron, The Local Train,</text>
+<text x="145" y="620" fill="#B5BECA" font-size="18" font-family="Inter, Arial">When Chai Met Toast.</text>
+<text x="145" y="677" fill="#F2EEE6" font-size="34" font-family="Georgia, serif" font-weight="700">Writing</text>
+<text x="145" y="711" fill="#B5BECA" font-size="18" font-family="Inter, Arial">Fiction in Bengali and English.</text>
+<text x="145" y="736" fill="#B5BECA" font-size="18" font-family="Inter, Arial">Usually melancholic.</text>
+<rect x="570" y="290" width="920" height="420" rx="28" fill="#0F141D" stroke="#253041"/>
+<text x="605" y="344" fill="#6AA4FF" font-size="17" font-family="Inter, Arial" letter-spacing="3">THE TRANSLATION BACK TO SOFTWARE</text>
+<text x="605" y="410" fill="#F2EEE6" font-size="40" font-family="Georgia, serif" font-weight="700">I like software with mood.</text>
+<text x="605" y="458" fill="#D7DEE9" font-size="21" font-family="Inter, Arial">That does not mean ornament for ornament's sake.</text>
+<text x="605" y="486" fill="#D7DEE9" font-size="21" font-family="Inter, Arial">It means software can be useful and memorable at once.</text>
+<text x="605" y="514" fill="#D7DEE9" font-size="21" font-family="Inter, Arial">A strong interface voice. A little drama. Good pacing.</text>
+<text x="605" y="542" fill="#D7DEE9" font-size="21" font-family="Inter, Arial">Details that reward attention.</text>
+<text x="605" y="605" fill="#FFB874" font-size="19" font-family="Inter, Arial" letter-spacing="2.5">THINGS I RETURN TO</text>
+<text x="605" y="642" fill="#F2EEE6" font-size="24" font-family="Inter, Arial">cinematic games / psychological fiction / dark warm palettes /</text>
+<text x="605" y="673" fill="#F2EEE6" font-size="24" font-family="Inter, Arial">tactile UI / intimate writing / tools that feel authored</text>
+<text x="607" y="773" fill="#A8B2C0" font-size="19" font-family="Inter, Arial">A profile should tell you what someone builds. It should also hint at why it looks the way it does.</text>
+</svg>
